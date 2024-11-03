@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "feea62cf7ccdda9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "678c1e3692dac437",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fccea6dcc4a2d10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999 Templates/Map of Content.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Map of Content"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c73f4b81351f90f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "17f5c460b167f45b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54bef84859aebdd3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e2479aa32ed34c6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4219066c716d1585",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a28e5722d53b92c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "63f326a05c86bf9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "104318ad3a8033e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ffeb0625364b2cb0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "a4b90b0bd1028b80",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a04bc8888d7f2bc3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "47f48b42c906b8df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "999 Templates/Map of Content.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Map of Content"
+            }
+          },
+          {
+            "id": "4ee0023b107fa915",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5fccea6dcc4a2d10",
+  "lastOpenFiles": [
+    "Rust Structs.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Zettelkasten Method.md",
+    "Zettelkasten Method of Notetaking.md",
+    "999 Templates/Note Template.md",
+    "999 Templates/Map of Content.md",
+    "Permanent Notes",
+    "Literature Notes",
+    "Fleeting Notes",
+    "999 Daily Notes/2024-11-02.md",
+    "Rust.md",
+    "C Struct.md",
+    "999 Templates/literature note template.md",
+    "999 Templates/daily note template.md",
+    "999 Daily Notes",
+    "Welcome.md",
+    "999 Templates"
+  ]
+}
